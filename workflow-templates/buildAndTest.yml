@@ -1,4 +1,4 @@
-name: .NET
+name: SkuVault-Integrations Organization Workflow
 
 on:
   push:

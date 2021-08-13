@@ -2,9 +2,6 @@
     "name": "SkuVault-Integrations Organization Workflow",
     "description": "SkuVault-Integrations Organization Workflow template.",
     "iconName": "template-icon",
-    "Categories": [
-        "C#"
-    ],
     "filePatterns": [
         "*"
     ]

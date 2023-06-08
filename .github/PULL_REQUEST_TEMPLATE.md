@@ -18,6 +18,7 @@ Help us understand what you did and why you did it. Provide a summary of your ch
 
 <!-- Complete all the checklist steps to the best of your ability, marking steps as you complete them or adding comment on why you didn't do it. -->
 
+- [ ] I have updated all relevant configuration
 - [ ] Followed [development conventions][1] to the best of my ability
 - [ ] Code is documented, particularly public interfaces and hard-to-understand areas
 - [ ] Tests are updated / added and all pass
